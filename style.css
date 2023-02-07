@@ -39,6 +39,7 @@ canvas {
 .toolbox > * {
     background-color: #fff;
     border: none;
+    border-radius: 5px;
     display: inline-flex;
     align-items: center;
     justify-content: center;
